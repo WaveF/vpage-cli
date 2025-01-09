@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-import { execSync } from 'child_process';
-import fs from 'fs';
-import path from 'path';
+const { execSync } = require('child_process');
+const fs = require('fs');
+const path = require('path');
 
 // 获取命令行参数
 const args = process.argv.slice(2);
@@ -24,5 +24,3 @@ console.log(`\nNext steps:\n`);
 console.log(`cd ${projectName}`);
 console.log(`npm install`);
 console.log(`npm run dev`);
-
-

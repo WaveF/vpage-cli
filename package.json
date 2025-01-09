@@ -1,8 +1,8 @@
 {
   "name": "vpage-cli",
-  "version": "1.0.0",
-  "description": "Create a new vpage project with ease.",
-  "main": "index.js",
+  "version": "1.0.1",
+  "description": "Create your simple webpage project with vpage template",
+  "main": "./bin/vpage.js",
   "bin": {
     "vpage": "./bin/vpage.js"
   },

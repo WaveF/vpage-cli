@@ -1,6 +1,6 @@
 # vpage-cli
 
-Use vpage as template to create your simple webpage project
+create your simple webpage project with vpage template
 more detail visit [here](https://gitee.com/wavef/vpage)
 
 ## Install
