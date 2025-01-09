@@ -17,7 +17,7 @@ console.log(`Creating a new project: ${projectName}...`);
 
 // 拉取模板（示例使用 degit 从 GitHub 拉取）
 // execSync(`npx degit user/vpage-template ${projectName}`, { stdio: 'inherit' });
-execSync(`npx degit https://gitee.com/wavef/vpage.git ${projectName}`, { stdio: 'inherit' });
+execSync(`npx degit https://github.com/WaveF/vpage.git ${projectName}`, { stdio: 'inherit' });
 
 console.log(`Project "${projectName}" created successfully!`);
 console.log(`\nNext steps:\n`);
