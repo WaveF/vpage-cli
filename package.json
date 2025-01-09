@@ -1,0 +1,15 @@
+{
+  "name": "vpage-cli",
+  "version": "1.0.0",
+  "description": "Create a new vpage project with ease.",
+  "main": "index.js",
+  "bin": {
+    "vpage": "./bin/vpage.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
